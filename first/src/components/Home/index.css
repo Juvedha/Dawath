@@ -1,0 +1,48 @@
+.home-item-1 {
+    background-image: url("https://res.cloudinary.com/dvrzid4co/image/upload/v1693466080/blog-1_1_cpmdmv.jpg");
+    height:500px;
+    width:100vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    background-size: cover;
+}
+.home-item-2 {
+    background-image: url("https://res.cloudinary.com/dvrzid4co/image/upload/v1693466044/blog-2_1_k84yj0.jpg");
+    height:500px;
+    width:100vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    background-size: cover;
+
+} 
+.home-item-3 {
+    background-image: url("https://res.cloudinary.com/dvrzid4co/image/upload/v1693466007/blog-3_1_yynwjj.jpg");
+    background-size: cover;
+    width:100vw;
+    height:500px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.text-cont {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    font-family: "Caveat";
+    font-style: italic;
+    color:#ffffff;
+}

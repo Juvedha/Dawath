@@ -1,0 +1,57 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    color:#ffffff;
+    padding:10px;
+}
+.email-telephone-icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.email-telephone{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+.email{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+}
+.icons-container{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+.icon-1{
+    font-size: 20px;
+    color:#ffffff;
+    align-self: center;
+}
+.button {
+    background-color: red;
+    color: #ffffff;
+    padding:3px;
+    border-radius: 3px;
+
+}
+.line-separator{
+    color:#ffffff;
+}
+.image-home-contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:#ffffff;
+}
+.text-container{
+    display: flex;
+    flex-direction: row;
+    gap:15px;
+    color: #ffffff;
+}
+.text{
+    color:#ffffff;
+    align-self: center;
+}

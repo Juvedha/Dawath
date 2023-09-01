@@ -1,0 +1,22 @@
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:#ffffff;
+    margin:10px;
+}
+.icons {
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+.important{
+    color:red;
+}
+.icon {
+    color:#ffffff;
+    font-size: 20px;
+
+}

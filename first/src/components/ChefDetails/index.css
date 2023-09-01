@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin:10px;
+}
+.our-chefs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin:5px;
+}
+@media screen and (min-width:700px){
+    .chef-details{
+        list-style-type: none;
+        margin:10px;
+        display: flex;
+        flex-direction: row;
+        margin:10px;
+        flex-wrap: nowrap;
+        
+    }
+}
+.chef-details{
+    list-style-type: none;
+    margin:10px;
+    display: flex;
+    flex-direction: row;
+    margin:10px;
+    flex-wrap: wrap;
+    
+}
+.chef-item-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    height:380px;
+    margin:10px
+}
+.chef-name {
+    font-family: "caveat";
+    text-align: center;
+}
+.chef-heading {
+    color:red;
+    font-family: "open seris";
+    font-style: italic;
+}

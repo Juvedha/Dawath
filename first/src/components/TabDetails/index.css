@@ -1,0 +1,11 @@
+.tab{
+    border:1px solid black;
+    background-color: #ffffff;
+    padding:3px;
+    border-radius: 2px;
+    margin:2px;
+}
+.active-tab {
+    background-color: red;
+    color:#ffffff;
+}
