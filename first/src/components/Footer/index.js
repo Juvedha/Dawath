@@ -11,7 +11,6 @@ const Footer=()=>(
         <p className='important'>hello@dawat.com</p>
         <p className='important'>*88 000 0000 1111</p>
         <div className='icons'>
-            
             <AiOutlineTwitter className='icon'/>
             <AiOutlineGooglePlus className='icon'/>
         </div>
